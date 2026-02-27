@@ -1,8 +1,8 @@
 # MORFI: Multimodal Zero-Shot Reasoning for Financial Time-Series Inference
 
-**ICCV Workshop 2025** | [Paper](https://openaccess.thecvf.com/content/ICCV2025W/papers/Khezresmaeilzadeh_MORFI_Mutimodal_Zero-Shot_Reasoning_for_Financial_Time-Series_Inference_ICCVW_2025_paper.pdf) | [Supplementary](https://openaccess.thecvf.com/content/ICCV2025W/papers/Khezresmaeilzadeh_MORFI_Mutimodal_Zero-Shot_ICCVW_2025_supplemental.pdf)
+**ICCV Workshop 2025** | [Paper](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Khezresmaeilzadeh_MORFI_Mutimodal_Zero-Shot_Reasoning_for_Financial_Time-Series_Inference_ICCVW_2025_paper.pdf) | [Supplementary](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/supplemental/Khezresmaeilzadeh_MORFI_Mutimodal_Zero-Shot_ICCVW_2025_supplemental.pdf)
 
-MORFI is a training-free framework that uses Vision-Language Models (VLMs) to predict stock prices by combining line chart images with numerical time-series data. It consistently outperforms text-only LLMs by 40–80% in MSE.
+MORFI is a training-free framework that uses Vision-Language Models (VLMs) to predict stock prices by combining line chart images with numerical time-series data. It outperforms text-only LLMs by 40–80% in MSE.
 
 ---
 
