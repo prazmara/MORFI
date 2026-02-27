@@ -72,7 +72,7 @@ MORFI/
 | DeepSeek-VL2 (multimodal) | 0.010 |
 | DeepSeek-VL2 (multimodal + CoT) | **0.005** |
 
-Full results across all model pairs and four stocks are in the [paper](https://openaccess.thecvf.com/content/ICCV2025W/papers/Khezresmaeilzadeh_MORFI_Mutimodal_Zero-Shot_Reasoning_for_Financial_Time-Series_Inference_ICCVW_2025_paper.pdf).
+Full results across all model pairs and four stocks are in the [paper](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Khezresmaeilzadeh_MORFI_Mutimodal_Zero-Shot_Reasoning_for_Financial_Time-Series_Inference_ICCVW_2025_paper.pdf).
 
 ## Citation
 
