@@ -27,4 +27,4 @@ for ticker, name in TICKERS.items():
 
 merged = pd.concat(frames, ignore_index=True)[["Date", "Name", "Closing_Price"]]
 merged.sort_values(["Name", "Date"]).to_csv(OUT, index=True)
-print(f"\nSaved {len(merged)} rows → {OUT}")
+print(f"\nSaved {len(merged)} rows -> {OUT}")
