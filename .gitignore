@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+*.swp
+.ipynb_checkpoints/
+data/preprocessed_CAC40.csv
+data/*.csv
+!data/download_cac40.py
+!data/README.md
+*.bin
+*.safetensors
+*.pt
+segment_plot.png
